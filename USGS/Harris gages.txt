@@ -1,0 +1,67 @@
+site_no	station_nm	action	minor_f	mod_f	major_f
+08067500	"Cedar Bayou nr Crosby, TX"	50.4	53.4		
+08067505	"Cedar Bayou at I-10 nr Mont Belvieu, TX"	8	13	18.5	20.5
+08067520	"Goose Ck nr McNair, TX"	23	26	27	28
+08067525	"Goose Ck at Baytown, TX"				
+08068090	"W Fk San Jacinto Rv abv Lk Houston nr Porter, TX"	73	81	88.5	92
+08068275	"Spring Ck nr Tomball, TX"	152	155	157	159
+08068310	"Spring Ck at Kuykendahl Rd, The Woodlands, TX"				
+08068325	"Willow Ck nr Tomball, TX"	126.4	129.4	130.5	133.5
+08068450	"Panther Br nr Spring, TX"				
+08068500	"Spring Ck nr Spring, TX"	88	91.5	95	100
+08068700	"Cypress Ck at Sharp Rd nr Hockley, TX"				
+08068720	"Cypress Ck at Katy-Hockley Rd nr Hockley, TX"	154.3	157.3	159.3	160.6
+08068740	"Cypress Ck at House-Hahl Rd nr Cypress, TX"				
+08068780	"Little Cypress Ck nr Cypress, TX"				
+08068800	"Cypress Ck at Grant Rd nr Cypress, TX"	119	122	124	125
+08068900	"Cypress Ck at Stuebner-Airline Rd nr Westfield, TX"				
+08069000	"Cypress Ck nr Westfield, TX"	82.5	85.5	88	90
+08069500	"W Fk San Jacinto Rv nr Humble, TX"	45.3	49.3	50.3	52.3
+08070200	"E Fk San Jacinto Rv nr New Caney, TX"	54.5	58	62	69
+08071250	"Luce Bayou at SH-99 nr Huffman, TX"	67.5	70.5		
+08071280	"Luce Bayou abv Lk Houston nr Huffman, TX"				
+08072000	"Lk Houston nr Sheldon, TX"				
+08072050	"San Jacinto Rv nr Sheldon, TX"	8	10	13	15
+08072300	"Buffalo Bayou nr Katy, TX"				
+08072350	"Buffalo Bayou nr Fulshear, TX"				
+08072470	"Mason Ck at Prince Ck Court nr Houston, TX"				
+08072520	"Clodine Ditch at Noble Rd nr Addicks, TX"				
+08072600	"Buffalo Bayou at State Hwy 6 nr Addicks, TX"				
+08072680	"S Mayde Ck at Heathergold Dr nr Addicks, TX"				
+08072700	"S Mayde Ck nr Addicks, TX"				
+08072730	"Bear Ck nr Barker, TX"	108	111	112	113.5
+08072760	"Langham Ck at W Little York Rd nr Addicks, TX"	106	109	110	111
+08072800	"Langham Ck nr Addicks, TX"				
+08073100	"Langham Ck at Addicks Res Outflow nr Addicks, TX"				
+08073500	"Buffalo Bayou nr Addicks, TX"				
+08073600	"Buffalo Bayou at W Belt Dr, Houston, TX"	59.2	62.2	63.2	65.3
+08073700	"Buffalo Bayou at Piney Point, TX"	49	52	57	60
+08074000	"Buffalo Bayou at Houston, TX"	17	28	29.5	32
+08074020	"Whiteoak Bayou at Alabonson Rd, Houston, TX"				
+08074150	"Cole Ck at Deihl Rd, Houston, TX"				
+08074250	"Brickhouse Gully at Costa Rica St, Houston, TX"				
+08074500	"Whiteoak Bayou at Houston, TX"	29	32	33.5	36
+08074540	"Little Whiteoak Bayou at Trimble St, Houston, TX"				
+08074598	"Whiteoak Bayou at Main St, Houston, TX"				
+08074710	"Buffalo Bayou at Turning Basin, Houston, TX"				
+08074760	"Brays Bayou at Alief, TX"				
+08074800	"Keegans Bayou at Roark Rd nr Houston, TX"				
+08074810	"Brays Bayou at Gessner Dr, Houston, TX"	54	57	58	59
+08075000	"Brays Bayou at Houston, TX"	38	41	42	43
+08075110	"Brays Bayou at MLK Jr Blvd, Houston, TX"				
+08075400	"Sims Bayou at Hiram Clarke St, Houston, TX"				
+08075500	"Sims Bayou at Houston, TX"	23.2	26.2	27.2	28.2
+08075605	"Berry Bayou at Nevada St, Houston, TX"				
+08075730	"Vince Bayou at Pasadena, TX"				
+08075763	"Hunting Bayou at Hoffman St, Houston, TX"				
+08075770	"Hunting Bayou at IH 610, Houston, TX"				
+08075780	"Greens Bayou at Cutten Rd nr Houston, TX"				
+08075900	"Greens Bayou nr US Hwy 75 nr Houston, TX"	81.8	84.8	86.6	87.7
+08076000	"Greens Bayou nr Houston, TX"	52	55	56.5	59.5
+08076180	"Garners Bayou nr Humble, TX"				
+08076500	"Halls Bayou at Houston, TX"				
+08076700	"Greens Bayou at Ley Rd, Houston, TX"	27	30	32	33
+08076990	"Clear Ck at FM 865 nr Pearland, TX"				
+08076997	"Clear Ck at Mykawa St nr Pearland, TX"	40.5	43.5		
+08077110	"Hickory Sl at FM 865 nr Pearland, TX"	49.5	51	52	53
+08077600	"Clear Ck nr Friendswood, TX"	7	12	16	21
