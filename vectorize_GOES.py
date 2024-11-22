@@ -77,15 +77,3 @@ for day in day_no:
                 radiance_vector = radiance_vector[::16]
                 rad_vecs.append(radiance_vector)
 
-ds = xr.Dataset(
-data_vars=dict(
-rad_vecs=(["time","len"], rad_vecs)
-),
-coords=dict(
-time=time_list,
-len = np.arange(97714)
-),
-attrs=dict(description="ABI radiance vectors"),
-)
-    
-ds.to_netcdf(chanstr+"vectors"+str(ld+1)+".nc")
